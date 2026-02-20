@@ -36,6 +36,7 @@ account.xiaomi.com
 i.mi.com
 home.mi.com
 aliexpress.ru
+cainiao.com
 
 square-enix.com
 *.square-enix.com
