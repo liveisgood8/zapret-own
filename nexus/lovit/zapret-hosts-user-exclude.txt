@@ -37,6 +37,7 @@ i.mi.com
 home.mi.com
 aliexpress.ru
 cainiao.com
+alicdn.com
 
 square-enix.com
 *.square-enix.com
